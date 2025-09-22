@@ -88,15 +88,25 @@ Once you have your structured data (e.g., a list of Pydantic objects or a pandas
 
 ---
 
+Here's an improved version:
+
 ## Deliverables 📦
 
-Please submit a link to your forked and completed GitHub repository. The repository should contain:
+Please submit a link to your forked and completed GitHub repository. **Keep the repository private** and send an invite to **lorenzo.famiglini@mamahealth.com**.
 
-1. All your source code in a `src/` directory.
-2. Your unit tests in a `tests/` directory.
-3. A `requirements.txt` file.
-4. A **`README.md` file updated with your final analysis**. Please present your answers to the four business questions here, supported by data and visualizations if you choose. Crucially, include your thoughts on the data limitations (churn) and explain your methodology, assumptions, and any challenges you faced.
+The repository should contain:
 
+1. **`src/`** directory - All your source code
+
+2. **`tests/`** directory - Your unit tests
+
+3. **`requirements.txt`** - All dependencies with pinned versions
+
+4. **`README.md`** - Updated with your final analysis, including:
+   - **Business Questions**: Present your answers to all four questions, supported by data and visualizations
+   - **Data Limitations**: Discuss the limitations of the data (particularly regarding churn)
+   - **Methodology**: Explain your approach, assumptions, and any challenges you faced
+     
 ---
 
 ## Optional "Go the Extra Mile" Tasks 🚀
