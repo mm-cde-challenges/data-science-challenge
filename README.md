@@ -87,9 +87,6 @@ Once you have your structured data (e.g., a list of Pydantic objects or a pandas
 - **Business Acumen:** The quality and clarity of your final insights. Can you present your findings in a way that is directly useful to a commercial team, including the necessary caveats?
 
 ---
-
-Here's an improved version:
-
 ## Deliverables 📦
 
 Please submit a link to your forked and completed GitHub repository. **Keep the repository private** and send an invite to **lorenzo.famiglini@mamahealth.com**.
