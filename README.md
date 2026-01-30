@@ -89,7 +89,7 @@ Once you have your structured data (e.g., a list of Pydantic objects or a pandas
 ---
 ## Deliverables 📦
 
-Please submit a link to your forked and completed GitHub repository. **Keep the repository private** and send an invite to **lorenzo.famiglini@mamahealth.com & mattia.munari@mamahealth.com**.
+Please submit a link to your forked and completed GitHub repository. **Keep the repository private** and send an invite to **johannes.unruh@mamahealth.io** (tj-mm) and **lorenzo.famiglini@mamahealth.io** (lollomamahealth) a short notification email to **mattia.munari@mamahealth.io**.
 
 The repository should contain:
 
